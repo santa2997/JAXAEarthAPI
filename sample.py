@@ -1,3 +1,5 @@
+# https://data.earth.jaxa.jp/api/python/v0.1.2/ja/index.html
+
 from jaxa.earth import je
 
 dlim = ["2024-01-04T00:00:00", "2024-01-05T23:59:00"]
